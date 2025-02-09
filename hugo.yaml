@@ -59,6 +59,10 @@ menu:
       name: About
       url: /about/
       weight: 3
+    - indentifier: project
+      name: Project
+      url: /project/
+      weight: 3
     # - indentifier: tags
     #   name: Tags
     #   url: /tags/
