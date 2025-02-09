@@ -1,7 +1,24 @@
 {{- with site.Params.homeInfoParams }}
-<article class="first-entry home-info" style="display: flex; justify-content: center; align-items: center; gap: 10px;  text-align: center;
-    margin: 0 0 calc(var(--gap) * 2);">
-    <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
+<style>
+@media only screen and (max-width: 768px) {
+  .foto-profile {
+    width: 136px;
+    height: 136px;
+  }
+}
+
+.first-entry {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+    display: flex; 
+    gap: 10px;  
+    margin: 0 0 calc(var(--gap) * 2) 0;
+}
+</style>
+<article class="first-entry home-info">
+    <img class="foto-profile" draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
     height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" style="border-radius: 50%;"/>
     <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
@@ -14,3 +31,4 @@
     </footer>
 </article>
 {{- end -}}
+
