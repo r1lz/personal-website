@@ -1,0 +1,65 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: xscp.me
+theme: ["PaperMod"]
+
+markup:
+  goldmark:
+    renderer:
+        unsafe: true
+
+params:
+  homeInfoParams: 
+    title: 'Sachril Candra Pratama'
+    imageWidth: 160 # custom size
+    imageHeight: 160 # custom size
+    imageUrl: "https://avatars.githubusercontent.com/u/91897589?v=4"
+    Content: "Hi there! I am a machine learning (ML) researcher who likes to build software. My research focuses on the evaluation of ML systems: which systems are “better” or “worse”. In particular, for language model and reinforcement learning applications. Recent projects include Inverse Constitutional AI (ICAI), Beobench and Bauwerk. I am a PhD candidate in the Department of Computer Science at the University of Cambridge and member of the AI4ER CDT. Reach out by sending an email or scheduling a call."
+  socialIcons:
+    - name: Github
+      url: 'https://github.com/r1lz'
+    - name: Instagram
+      url: 'https://instagram.com/sahrilcndr_'
+    - name: Linkedin
+      url: 'https://linkedin.com/in/schcndr'
+    - name: Email
+      url: 'mailto:xscp01@gmail.com'
+    - name: RSS
+      url: '/index.xml'
+    
+  assets:
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
+
+  ShowBreadCrumbs: false
+  ShowShareButtons: false
+  ShowReadingTime: true 
+  ShowPostNavLinks: true
+  
+
+  # cover:
+  #   link:
+  #     linkFullImages: true
+
+
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      pageRef: /
+      weight: 1
+    - indentifier: categories
+      name: Categories
+      url: /categories/
+      weight: 2
+    - indentifier: about
+      name: About
+      url: /about/
+      weight: 3
+    # - indentifier: tags
+    #   name: Tags
+    #   url: /tags/
+    #   weight: 10
