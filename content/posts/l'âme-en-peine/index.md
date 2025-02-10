@@ -7,6 +7,7 @@ categories: ["Refleksi"]
 summary: "Jiwa yang bermasalah"
 weight: 1
 ---
+{{< youtube l08Zw-RY__Q >}}
 ## Semuanya Dimulai
 Tahun 2017 lalu gue menginjak kelas 1 SMK. Gue agak sedikit canggung berkomunikasi dengan lawan jenis karena kurang terbiasa, mengingat dulu gue masuk di jurusan yang kurang banyak diminati wanita. 
 
@@ -60,7 +61,7 @@ Kabar buruknya, tahun 2024 ditutup dengan diagnosa dokter terhadap gue.
 
 Bayangkan perasaan jiwa akan terlepas dari tubuh, menjadi depersonalisasi dan merasa seperti dunia di sekitar tidak nyata atau diri sendiri terlepas dari tubuh. Itu semua bisa terjadi kapan saja, saat ini menjadi sebuah masalah besar. 
 
-Gue dipecat dari pekerjaan yang menjadikan biaya kuliah tertumpuk, dan sudah sejak tahun 2024 awal hingga 2025 gue menjauhi semua orang dan meninggalkan dunia kampus. Karena penyendirian membantu gue lebih tenang. Kabar buruknya lagi, sejak 2022 gue sudah tinggal jauh dari orang tua dan menjalani hidup dengan pekerjaan project lepas. Sedikit bingung dengan arah pulang, dimana tempat untuk gue bisa didengar.
+Gue dipecat dari pekerjaan yang menjadikan biaya kuliah tertumpuk, dan sudah sejak tahun 2024 awal hingga 2025 gue menjauhi semua orang dan meninggalkan dunia kampus. Karena penyendirian membantu gue lebih tenang. Kabar buruknya lagi, sejak 2022 gue sudah tinggal jauh dari orang tua dan menjalani hidup dengan bekerja lepas. Sedikit bingung dengan arah pulang, dimana tempat untuk gue bisa didengar.
 
 ---
 Rasanya gue ingin setidaknya satu pertemuan akhir yang bisa terjadi. Untuk memberitahu bahwa masih ada seseorang yang, hanya menunggu dan tidak bergerak maju. Yang berharap apa yang diyakini benar, tanpa menyadari jika waktu terus berjalan. Tanpa melakukan ataupun mengucapkan apapun lagi.

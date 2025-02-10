@@ -3,21 +3,21 @@ title: "About Me"
 ShowReadingTime: false 
 ShowBreadCrumbs: false
 ---
-<!-- Saya seorang **penggiat bidang data analytics** yang memiliki pengalaman luas dalam menggali dan menganalisis data untuk mendukung keputusan berbasis data di berbagai industri. Saya berfokus pada penerapan **metode statistik**, **pembelajaran mesin (*machine learning*)**, dan **teknik *big data*** untuk memberikan wawasan yang mendalam dan solusi yang dapat diimplementasikan.
+Saya adalah seorang **Data Analytics Enthusiast** dengan pengalaman luas dalam **mengekstraksi dan menganalisis data** untuk mendukung pengambilan keputusan berbasis data di berbagai industri. Saya berfokus pada penerapan *metode statistik, machine learning*, serta **teknik big data** untuk menghasilkan **wawasan mendalam** dan *solusi yang dapat ditindaklanjuti*.
 
-Dalam pekerjaan saya, saya menggunakan berbagai alat dan teknologi canggih seperti **Hadoop**, **Spark**, dan **SQL** untuk menangani dataset besar dan kompleks. Saya juga berpengalaman dalam penerapan algoritma pembelajaran mesin menggunakan **TensorFlow** dan **Scikit-Learn** untuk membuat model prediktif yang dapat membantu organisasi memprediksi tren dan perilaku di masa depan.
+Dalam pekerjaan saya, saya menggunakan berbagai alat dan teknologi canggih seperti **Hadoop, Spark**, dan **SQL** untuk menangani *dataset yang besar dan kompleks*. Saya juga berpengalaman dalam menerapkan *algoritma machine learning* dengan menggunakan **TensorFlow** dan **Scikit-Learn** untuk membangun **model prediktif** yang membantu organisasi memproyeksikan *tren dan perilaku* di masa depan.
 
-Saat ini, saya adalah mahasiswa program sarjana di **Jurusan Teknik Informatika**, [Universitas Muhammadiyah Sukabumi](https://ummi.ac.id). Selama studi, saya aktif dalam berbagai organisasi kampus yang memberikan pengalaman berharga dalam pengembangan keterampilan **kepemimpinan** dan **kerja sama tim**.  
+Saat ini, saya adalah mahasiswa program Sarjana Teknik Informatika di [Universitas Muhammadiyah Sukabumi](https://ummi.ac.id). Selama masa studi, saya **aktif terlibat dalam berbagai organisasi kampus**, yang memberikan pengalaman berharga dalam *mengembangkan keterampilan kepemimpinan dan kerja sama tim*.
 
-## Pengalaman Organisasi
+## Organizational Experience
 
-| **Tahun**   | **Organisasi**                      | **Posisi**                     |
-|-------------|-------------------------------------|--------------------------------|
-| *2021-2022* | **Google Developer Student Club**   | **Anggota Divisi Kurikulum**   |
-| *2022-2023* | **BEM Fakultas Sains dan Teknologi** | **Ketua Departemen PSDM**      |
-| *2023-2024* | **BEM Fakultas Sains dan Teknologi** | **Ketua BEM**                 | -->
+| **Year**    | **Organization**                     | **Position**                    |
+|-------------|--------------------------------------|---------------------------------|
+| *2021-2022* | **Google Developer Student Club**    | **Anggota Divisi Kurikulum** |
+| *2022-2023* | **BEM Fakultas Sains dan Teknologi** | **Kepala Departemen PSDM (Pengembangan Sumber Daya Mahasiswa)**      |
+| *2023-2024* | **BEM Fakultas Sains dan Teknologi** | **Ketua** | 
 
-I am a **data analytics enthusiast** with extensive experience in extracting and analyzing data to support data-driven decisions across various industries. I focus on applying **statistical methods**, **machine learning**, and **big data techniques** to provide deep insights and actionable solutions.
+<!-- I am a **data analytics enthusiast** with extensive experience in extracting and analyzing data to support data-driven decisions across various industries. I focus on applying **statistical methods**, **machine learning**, and **big data techniques** to provide deep insights and actionable solutions.
 
 In my work, I use advanced tools and technologies such as **Hadoop**, **Spark**, and **SQL** to handle large and complex datasets. I am also experienced in applying machine learning algorithms using **TensorFlow** and **Scikit-Learn** to build predictive models that help organizations forecast trends and behaviors in the future.
 
@@ -29,4 +29,4 @@ Currently, I am an undergraduate student in **Computer Engineering** at [Univers
 |-------------|--------------------------------------|---------------------------------|
 | *2021-2022* | **Google Developer Student Club**    | **Member of Curriculum Division** |
 | *2022-2023* | **Student Government of Faculty of Science and Technology** | **Head of PSDM Department**      |
-| *2023-2024* | **Student Government of Faculty of Science and Technology** | **Student Government President** |
+| *2023-2024* | **Student Government of Faculty of Science and Technology** | **Student Government President** | -->
