@@ -1,5 +1,5 @@
 ---
-title: "Bio"
+title: "About"
 ShowReadingTime: false 
 ---
 Saat ini, saya adalah **Mahasiswa** program Sarjana Teknik Informatika di [Universitas Muhammadiyah Sukabumi](https://ummi.ac.id). Selama masa studi, saya aktif terlibat dalam berbagai organisasi kampus, yang memberikan pengalaman berharga dalam mengembangkan keterampilan kepemimpinan dan kerja sama tim.
