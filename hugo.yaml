@@ -9,7 +9,7 @@ markup:
         unsafe: true
 
 params:
-  defaultTheme: light
+  defaultTheme: dark
   homeInfoParams: 
     title: 'Sachril Candra'
     imageWidth: 160 # desktop size
