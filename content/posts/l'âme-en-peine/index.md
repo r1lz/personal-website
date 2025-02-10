@@ -7,6 +7,7 @@ categories: ["Refleksi"]
 summary: "Jiwa yang bermasalah"
 weight: 1
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l08Zw-RY__Q?si=TnQi7aVlzRvQkQcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Semuanya Dimulai
 Tahun 2017 lalu gue menginjak kelas 1 SMK. Gue agak sedikit canggung berkomunikasi dengan lawan jenis karena kurang terbiasa, mengingat dulu gue masuk di jurusan yang kurang banyak diminati wanita. 
 
