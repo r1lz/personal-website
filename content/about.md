@@ -1,21 +1,18 @@
 ---
-title: "About Me"
+title: "Bio"
 ShowReadingTime: false 
-ShowBreadCrumbs: false
 ---
-Saya adalah seorang **Data Analytics Enthusiast** dengan pengalaman luas dalam **mengekstraksi dan menganalisis data** untuk mendukung pengambilan keputusan berbasis data di berbagai industri. Saya berfokus pada penerapan *metode statistik, machine learning*, serta **teknik big data** untuk menghasilkan **wawasan mendalam** dan *solusi yang dapat ditindaklanjuti*.
+Saat ini, saya adalah **Mahasiswa** program Sarjana Teknik Informatika di [Universitas Muhammadiyah Sukabumi](https://ummi.ac.id). Selama masa studi, saya aktif terlibat dalam berbagai organisasi kampus, yang memberikan pengalaman berharga dalam mengembangkan keterampilan kepemimpinan dan kerja sama tim.
 
-Dalam pekerjaan saya, saya menggunakan berbagai alat dan teknologi canggih seperti **Hadoop, Spark**, dan **SQL** untuk menangani *dataset yang besar dan kompleks*. Saya juga berpengalaman dalam menerapkan *algoritma machine learning* dengan menggunakan **TensorFlow** dan **Scikit-Learn** untuk membangun **model prediktif** yang membantu organisasi memproyeksikan *tren dan perilaku* di masa depan.
+Saya merupakan **Data Analytics Enthusiast** Dalam pekerjaan saya, saya menggunakan berbagai alat dan teknologi canggih seperti **Hadoop, Spark**, dan **SQL** untuk menangani dataset yang besar dan kompleks. Saya juga berpengalaman dalam menerapkan algoritma *machine learning* dengan menggunakan **TensorFlow** dan **Scikit-Learn** untuk membangun model prediktif yang membantu  memproyeksikan *tren dan perilaku* di masa depan.
 
-Saat ini, saya adalah mahasiswa program Sarjana Teknik Informatika di [Universitas Muhammadiyah Sukabumi](https://ummi.ac.id). Selama masa studi, saya **aktif terlibat dalam berbagai organisasi kampus**, yang memberikan pengalaman berharga dalam *mengembangkan keterampilan kepemimpinan dan kerja sama tim*.
+## Pengalaman Organisasi
 
-## Organizational Experience
-
-| **Year**    | **Organization**                     | **Position**                    |
+|     |                      |                     |
 |-------------|--------------------------------------|---------------------------------|
-| *2021-2022* | **Google Developer Student Club**    | **Anggota Divisi Kurikulum** |
-| *2022-2023* | **BEM Fakultas Sains dan Teknologi** | **Kepala Departemen PSDM (Pengembangan Sumber Daya Mahasiswa)**      |
-| *2023-2024* | **BEM Fakultas Sains dan Teknologi** | **Ketua** | 
+| *2021-2022* | **Google Developer Student Club (2021-2022)**    | Anggota Divisi Kurikulum |
+| *2022-2023* | **BEM Fakultas Sains dan Teknologi** | Kepala Departemen PSDM (Pengembangan Sumber Daya Mahasiswa)      |
+| *2023-2024* | **BEM Fakultas Sains dan Teknologi** | Ketua | 
 
 <!-- I am a **data analytics enthusiast** with extensive experience in extracting and analyzing data to support data-driven decisions across various industries. I focus on applying **statistical methods**, **machine learning**, and **big data techniques** to provide deep insights and actionable solutions.
 

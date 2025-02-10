@@ -4,7 +4,7 @@ draft: false
 title: "l'âme-en-peine"
 tags: ["sky"]
 categories: ["Refleksi"]
-summary: "Jiwa yang bermasalah"
+summary: "Jiwa yang bermasalah."
 weight: 1
 ---
 {{< youtube "l08Zw-RY__Q" >}}
@@ -73,6 +73,6 @@ Walau gue benci mengakuinya, sepertinya dia adalah cinta pertama gue. Dia adalah
 ## Mengapa Tulisan Ini Ada
 Mungkin lo bingung, apa hubungannya dengan semua ini? Mengapa gue membagikan cerita ini? Mengapa gue menceritakan sesuatu yang tidak pernah ingin gue ceritakan kepada siapapun? Mengapa lo membaca ini? Mengapa hari ini?
 
-Kadang gue mempertanyakan, bagaimana rasanya jatuh cinta? Yang bukan karena penasaran apalagi pelarian? Yang mengucapkan “I love you” bukan hanya karena kata itu yng ingin dibaca ataupun didengar. Cinta yang tidak dibagi apalagi dibeli, yang suci seperti melati atau hati.
+Kadang gue mempertanyakan, bagaimana rasanya jatuh cinta? Yang bukan karena penasaran apalagi pelarian? Yang mengucapkan “I love you” bukan hanya karena kata itu yang ingin dibaca ataupun didengar. Cinta yang tidak dibagi apalagi dibeli, yang suci seperti melati atau hati.
 
 Akankah gue merasakannya setidaknya satu kali lagi di lain hari?

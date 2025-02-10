@@ -9,12 +9,13 @@ markup:
         unsafe: true
 
 params:
+  defaultTheme: light
   homeInfoParams: 
     title: 'Sachril Candra Pratama'
     imageWidth: 160 # desktop size
     imageHeight: 160 # desktop size
     imageUrl: "https://avatars.githubusercontent.com/u/91897589?v=4"
-    Content: Saya adalah seorang **Data Analytics Enthusiast** dengan pengalaman luas dalam **mengekstraksi dan menganalisis data** untuk mendukung pengambilan keputusan berbasis data di berbagai industri. Saya berfokus pada penerapan *metode statistik, machine learning*, serta **teknik big data** untuk menghasilkan **wawasan mendalam** dan *solusi yang dapat ditindaklanjuti*. Untuk informasi lebih lanjut, silakan kunjungi <a style='text-decoration:underline;' href='/about'>Tentang Saya</a>.
+    Content: Saya adalah seorang **Data Analytics Enthusiast** dengan pengalaman luas dalam **mengekstraksi dan menganalisis data** untuk mendukung pengambilan keputusan berbasis data di berbagai industri. Saya berfokus pada penerapan metode statistik, *machine learning*, serta teknik *big data* untuk menghasilkan wawasan mendalam dan solusi yang dapat ditindaklanjuti. Untuk informasi lebih lanjut, silakan kunjungi <a style='text-decoration:underline;' href='/about'>Tentang Saya</a>.
   socialIcons:
     - name: Github
       url: 'https://github.com/r1lz'
@@ -33,7 +34,7 @@ params:
     favicon32x32: "/favicon/favicon-32x32.png"
     apple_touch_icon: "/favicon/apple-touch-icon.png"
 
-  ShowBreadCrumbs: true
+  # ShowBreadCrumbs: true
   ShowShareButtons: false
   ShowReadingTime: true 
   ShowPostNavLinks: true
@@ -42,22 +43,25 @@ params:
   #   link:
   #     linkFullImages: true
 
-
-
 menu:
   main:
     - identifier: home
       name: Home
       pageRef: /
       weight: 1
+    - identifier: posts
+      name: Blog
+      url: /posts/
+      weight: 2
     - indentifier: categories
       name: Categories
       url: /categories/
-      weight: 2
+      weight: 3
     - indentifier: about
       name: About
       url: /about/
-      weight: 3
+      weight: 4
+
     # - indentifier: project
     #   name: Project
     #   url: /project/
