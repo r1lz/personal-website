@@ -36,7 +36,7 @@ Foto-foto tersebut tersimpan di folder bernama "Nevertheless” di setiap penyim
 
 Foto yang tidak pernah dibagikan, apalagi dipublikasikan.
 
-{{< figure src="images/sky.png" caption="_In darkness, stars find their way._" align="center" width="200" >}}
+{{< figure src="images/sky.png" caption="_In darkness, stars find their way._" align="center" width="200" loading="lazy" >}}
 
  
 Tahun 2021 tiba dengan harapan yang sama, perubahan diri. Kini uang yang gue tabung bisa dipakai untuk daftar kuliah. Setidaknya, niatan ini gue lakukan karena ingin mencoba lebih baik dari sebelumnya. Semua atas ambisi yang masih tersimpan didalam diri.
