@@ -4,6 +4,8 @@ draft: false
 title: "Apa & Mengapa menggunakan Tailscale"
 tags: ["Vps"]
 categories: ["DevOps"]
+ShowToc: true
+TocOpen: false
 summary: "Zero Trust networks yang menjadi salah satu alasan mengapa Tailscale ada."
 weight: 2
 ---

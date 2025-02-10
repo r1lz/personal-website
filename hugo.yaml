@@ -11,10 +11,10 @@ markup:
 params:
   homeInfoParams: 
     title: 'Sachril Candra Pratama'
-    imageWidth: 160 # custom size
-    imageHeight: 160 # custom size
+    imageWidth: 160 # desktop size
+    imageHeight: 160 # desktop size
     imageUrl: "https://avatars.githubusercontent.com/u/91897589?v=4"
-    Content: "Hi there! I am a machine learning (ML) researcher who likes to build software. My research focuses on the evaluation of ML systems: which systems are “better” or “worse”. In particular, for language model and reinforcement learning applications. Recent projects include Inverse Constitutional AI (ICAI), Beobench and Bauwerk. I am a PhD candidate in the Department of Computer Science at the University of Cambridge and member of the AI4ER CDT. Reach out by sending an email or scheduling a call."
+    Content: Hi there! I am a **Data Analytics Enthusiast** passionate about extracting actionable insights from complex data systems. My areas of expertise include *business performance evaluation*, the development of predictive models, and designing scalable, data-driven solutions to support informed decision-making. Currently, I am pursuing my academic journey in this field, continually refining my knowledge and practical skills. For more information, please visit <a style='text-decoration:underline;' href='/about'>About Me</a>.
   socialIcons:
     - name: Github
       url: 'https://github.com/r1lz'
@@ -33,11 +33,10 @@ params:
     favicon32x32: "/favicon/favicon-32x32.png"
     apple_touch_icon: "/favicon/apple-touch-icon.png"
 
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowShareButtons: false
   ShowReadingTime: true 
   ShowPostNavLinks: true
-  
 
   # cover:
   #   link:
