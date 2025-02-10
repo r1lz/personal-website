@@ -15,7 +15,7 @@ params:
     imageWidth: 160 # desktop size
     imageHeight: 160 # desktop size
     imageUrl: "https://avatars.githubusercontent.com/u/91897589?v=4"
-    Content: Saya adalah seorang **Data Analytics Enthusiast** dengan pengalaman luas dalam **mengekstraksi dan menganalisis data** untuk mendukung pengambilan keputusan berbasis data di berbagai industri. Saya berfokus pada penerapan metode statistik, *machine learning*, serta teknik *big data* untuk menghasilkan wawasan mendalam dan solusi yang dapat ditindaklanjuti. Untuk informasi lebih lanjut, silakan kunjungi <a style='text-decoration:underline;' href='/about'>Tentang Saya</a>.
+    Content: Saya adalah seorang **Data Analytics Enthusiast** dengan pengalaman luas dalam **mengekstraksi dan menganalisis data** untuk mendukung pengambilan keputusan berbasis data di berbagai industri. Saya berfokus pada penerapan metode statistik, *machine learning*, serta teknik *big data* untuk menghasilkan wawasan mendalam dan solusi yang dapat ditindaklanjuti. Untuk informasi lebih lanjut, silakan kunjungi <a style='text-decoration:underline;' href='/about'>About</a>.
   socialIcons:
     - name: Github
       url: 'https://github.com/r1lz'
