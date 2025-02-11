@@ -23,6 +23,8 @@ params:
       url: 'https://instagram.com/sahrilcndr_'
     - name: Linkedin
       url: 'https://linkedin.com/in/schcndr'
+    - name: X
+      url: 'https://x.com/xscp01'
     - name: Email
       url: 'mailto:xscp01@gmail.com'
     - name: RSS
