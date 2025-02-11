@@ -1,5 +1,5 @@
 ---
-date: '2025-02-09T22:57:35+07:00'
+date: '2025-01-15T22:57:35+07:00'
 draft: false
 title: 'Fucking past'
 tags: ["sky"]

@@ -1,5 +1,5 @@
 ---
-date: '2025-02-09T22:57:35+07:00'
+date: '2025-01-02T22:57:35+07:00'
 draft: false
 title: "Stoikisme telah mati dan saya yang membunuhnya"
 tags: ["Stoikisme"]

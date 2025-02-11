@@ -10,7 +10,7 @@ Saya merupakan **Data Analytics Enthusiast** Dalam pekerjaan saya, saya mengguna
 
 |     |                      |                     |
 |-------------|--------------------------------------|---------------------------------|
-| *2021-2022* | **Google Developer Student Club (2021-2022)**    | Anggota Divisi Kurikulum |
+| *2021-2022* | **Google Developer Student Club**    | Anggota Divisi Kurikulum |
 | *2022-2023* | **BEM Fakultas Sains dan Teknologi** | Kepala Departemen PSDM (Pengembangan Sumber Daya Mahasiswa)      |
 | *2023-2024* | **BEM Fakultas Sains dan Teknologi** | Ketua | 
 
