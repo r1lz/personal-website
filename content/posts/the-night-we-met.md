@@ -37,10 +37,10 @@ Ada tiga penyesalan terbesar dalam hidup saya sejauh ini:
 
 Nomor 2 dan 3 sekilas terlihat kontradiksi, tapi pada dasarnya dua hal tersebut adalah hal yang sangat berbeda.
 
-Dari 3 penyesalan diatas, terkadang saya bertanya-tanya: bagaimana jika pada saat itu saya tidak mengambil keputusan dalam keadaan marah? Bagaimana jika pada saat itu saya menyadari suatu hal dan berhenti menganggap bahwa hal tersebut tidak ada? Bagaimana jika pada saat itu saya mengamini apa yang orang lain inginkan alih-alih bersikeras untuk memilih apa yang gue inginkan?
+Dari 3 penyesalan diatas, terkadang saya bertanya-tanya: bagaimana jika pada saat itu saya tidak mengambil keputusan dalam keadaan marah? Bagaimana jika pada saat itu saya menyadari suatu hal dan berhenti menganggap bahwa hal tersebut tidak ada? Bagaimana jika pada saat itu saya mengamini apa yang orang lain inginkan alih-alih bersikeras untuk memilih apa yang saya inginkan?
 
-Saya tidak akan tahu jawabannya, karena pada dasarnya jalan yang gue ambil adalah hal kontra dari pertanyaan tersebut.
-Ada satu pertanyaan yang tidak jarang menghantui pikiran gue.
+Saya tidak akan tahu jawabannya, karena pada dasarnya jalan yang saya ambil adalah hal kontra dari pertanyaan tersebut.
+Ada satu pertanyaan yang tidak jarang menghantui pikiran saya.
 
 > _Apa yang akan dilakukan jika memiliki kesempatan lagi?_
 
