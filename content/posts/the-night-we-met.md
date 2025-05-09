@@ -49,7 +49,7 @@ Pertanyaan ini terjadi saat termenung 30 menit sebelum pertemuan baru ini, di ha
 ----
 ## The Night We Meet
 
-We talk about everything, we feel connected because we have the same habits. I looked at him as he spoke. He looks good. And smart. And hard worker. And cute. And independent. And beautiful. And okay—i have to stop. 
+We talk about everything, we feel connected because we have the same habits. I looked at him as he spoke. She looks good. And smart. And hard worker. And cute. And independent. And beautiful. And okay—i have to stop. 
 
 I am so grateful to be able to hear so I know the sound and tone. We talked about everything: tentang Nietzsche, tentang Stoikisme, **tentang sajak**, tentang tulisan, tentang hal-hal kecil yang sering seringkali tidak dipahami kebanyakan orang.
 
